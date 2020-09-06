@@ -41,7 +41,7 @@ I am a problem solver and artist looking to collaborate on interesting projects.
     <img src='https://img.shields.io/static/v1?label=&message=Django&style=flat-square&logo=django&color=darkgreen&logoColor=white' />
   </a>
   <a href='https://aws.com/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=AWS&style=flat-square&logo=amazon&color=lightorange' />
+    <img src='https://img.shields.io/static/v1?label=&message=AWS&style=flat-square&logo=amazon&color=black' />
   </a>
   <a href='https://docs.microsoft.com/en-us/dotnet/csharp/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=C%20Sharp&style=flat-square&logo=c-sharp&color=239120' />
@@ -77,7 +77,7 @@ I am a problem solver and artist looking to collaborate on interesting projects.
     <img src='https://img.shields.io/static/v1?label=&message=Java&style=flat-square&logo=java&color=007396&logoColor=white' />
   </a>
   <a href='https://nodejs.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=Node.js&color=339933&style=flat-square&logo=nodejs' />
+    <img src='https://img.shields.io/static/v1?label=&message=Node.js&color=339933&style=flat-square&logo=node' />
   </a>
   <a href='https://www.docker.com/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=Docker&style=flat-square&logo=docker&color=2496ed&logoColor=white' />
