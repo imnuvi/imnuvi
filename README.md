@@ -38,7 +38,7 @@ I am a problem solver looking to collaborate on interesting projects.
     <img src='https://img.shields.io/static/v1?label=&message=javascript&style=for-the-badge&logo=javascript&logoColor=f7df1e&color=grey' />
   </a>
   <a href='https://www.djangoproject.com/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=Django&style=for-the-badge&logo=digitalocean&color=darkgreen&logoColor=white' />
+    <img src='https://img.shields.io/static/v1?label=&message=Django&style=for-the-badge&logo=django&color=darkgreen&logoColor=white' />
   </a>
   <a href='https://aws.com/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=aws&style=for-the-badge&logo=aws&color=lightorange' />
@@ -52,8 +52,8 @@ I am a problem solver looking to collaborate on interesting projects.
   <a href='https://wordpress.org/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=WordPress&style=for-the-badge&logo=wordpress&color=21759b' />
   </a>
-  <a href='https://maven.apache.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=Apache&style=for-the-badge&logo=apache-maven&color=c71a36' />
+  <a href='https://apache.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=Apache&style=for-the-badge&logo=apache&color=c71a36' />
   </a>
   <a href='https://www.postman.com/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=postman&style=for-the-badge&logo=postman&color=orange&logoColor=white' />
@@ -92,11 +92,12 @@ I am a problem solver looking to collaborate on interesting projects.
 </div>
 
 #### My preferences
-<div>
+<div align='center'>
 
-  <img src='https://img.shields.io/static/v1?label=PGP&message=revoked&color=critical&style=for-the-badge&logo=gnu' />
   <img src='https://img.shields.io/static/v1?label=OS&message=Linux&color=blue&style=for-the-badge&logo=linux' />
-  <img src='https://img.shields.io/static/v1?label=Distro&message=Arch%20Linux&color=blue&style=for-the-badge&logo=arch-linux' />
-  <img src='https://img.shields.io/static/v1?label=Editor&message=VSCode&color=blue&style=for-the-badge&logo=visual-studio-code' />
+  <p>my greatest confusion</p>
+  <img src='https://img.shields.io/static/v1?label=OS&message=MacOS&color=blue&style=for-the-badge&logo=apple' />
+  <img src='https://img.shields.io/static/v1?label=Distro&message=Ubuntu&color=blue&style=for-the-badge&logo=ubuntu' />
+  <img src='https://img.shields.io/static/v1?label=Editor&message=Vim&color=blue&style=for-the-badge&logo=vim' />
   
 </div>
