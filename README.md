@@ -2,7 +2,7 @@
 
 Welcome.
 
-I am a problem solver looking to collaborate on interesting projects.
+I am a problem solver and artist looking to collaborate on interesting projects.
 
 <div align='center'>
   <a href='https://ramprakash.blog' target='_blank' rel='noopener' rel='noreferrer'>
@@ -20,7 +20,7 @@ I am a problem solver looking to collaborate on interesting projects.
 
 </div>
 
-#### What I know & have worked with.
+#### Stuff I'm good at and work with.
 <div align='center'>
   <a href='https://www.python.org/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=python&style=for-the-badge&logo=python&logoColor=white&color=3776ab' />
@@ -72,7 +72,10 @@ I am a problem solver looking to collaborate on interesting projects.
 #### I am current learning.
 
 <div align='center'>
-
+  
+  <a href='https://openjdk.java.net/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=Java&style=for-the-badge&logo=java&color=007396&logoColor=white' />
+  </a>
   <a href='https://nodejs.org/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=Node.js&color=339933&style=for-the-badge&logo=nodejs' />
   </a>
@@ -95,9 +98,11 @@ I am a problem solver looking to collaborate on interesting projects.
 <div align='center'>
 
   <img src='https://img.shields.io/static/v1?label=OS&message=Linux&color=blue&style=for-the-badge&logo=linux' />
-  <p>my greatest confusion</p>
-  <img src='https://img.shields.io/static/v1?label=OS&message=MacOS&color=blue&style=for-the-badge&logo=apple' />
   <img src='https://img.shields.io/static/v1?label=Distro&message=Ubuntu&color=blue&style=for-the-badge&logo=ubuntu' />
+  <p>I don't know which I love more.</p>
+  <img src='https://img.shields.io/static/v1?label=OS&message=MacOS&color=blue&style=for-the-badge&logo=apple' />
+  <p></p>
   <img src='https://img.shields.io/static/v1?label=Editor&message=Vim&color=blue&style=for-the-badge&logo=vim' />
+  <img src='https://img.shields.io/static/v1?label=Language&message=Python&color=blue&style=for-the-badge&logo=python' />
   
 </div>
