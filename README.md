@@ -55,6 +55,9 @@ I am a problem solver and artist looking to collaborate on interesting projects.
   <a href='https://apache.org/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=Apache&style=flat-square&logo=apache&color=c71a36' />
   </a>
+  <a href='https://wireshark.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=Wireshark&style=flat-square&logo=wireshark&color=00008b' />
+  </a>
   <a href='https://www.postman.com/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=postman&style=flat-square&logo=postman&color=orange&logoColor=white' />
   </a>
