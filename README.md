@@ -23,7 +23,7 @@ I am a problem solver and artist looking to collaborate on interesting projects.
 <div>
 <br />
 
-![](final.gif =1000x)
+<img src="final.gif" width="1000">
 
 <br />
 </div>
