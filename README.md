@@ -23,7 +23,7 @@ I am a problem solver and artist looking to collaborate on interesting projects.
 <div>
 <br />
 
-<img src="shorter.gif" width="1000">
+<img src="smaller.gif" width="1000">
 
 <br />
 </div>
