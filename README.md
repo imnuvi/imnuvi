@@ -1,4 +1,4 @@
-## Hiya there!✌🏻 
+## Hiya there!✌🏻
 
 Welcome.
 
@@ -19,6 +19,8 @@ I am a problem solver and artist looking to collaborate on interesting projects.
   </a>
 
 </div>
+
+![](final.gif)
 
 #### Stuff I'm good at and work with.
 <div align='center'>
@@ -72,7 +74,7 @@ I am a problem solver and artist looking to collaborate on interesting projects.
 #### I am current learning.
 
 <div align='center'>
-  
+
   <a href='https://openjdk.java.net/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=Java&style=flat-square&logo=java&color=007396&logoColor=white' />
   </a>
@@ -104,5 +106,5 @@ I am a problem solver and artist looking to collaborate on interesting projects.
   <p></p>
   <img src='https://img.shields.io/static/v1?label=Editor&message=Vim&color=blue&style=flat-square&logo=vim' />
   <img src='https://img.shields.io/static/v1?label=Language&message=Python&color=blue&style=flat-square&logo=python' />
-  
+
 </div>
