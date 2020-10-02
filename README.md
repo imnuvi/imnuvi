@@ -20,7 +20,13 @@ I am a problem solver and artist looking to collaborate on interesting projects.
 
 </div>
 
-![](final.gif)
+<div>
+<br />
+
+![](final.gif =1000x)
+
+<br />
+</div>
 
 #### Stuff I'm good at and work with.
 <div align='center'>
