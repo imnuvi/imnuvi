@@ -6,7 +6,7 @@ I am a problem solver and artist looking to collaborate on interesting projects.
 
 <div align='center'>
   <a href='https://ramprakash.blog' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=Website&message=ramprakash.blog&color=blue&style=flat-square&logo=Chrome%20browser' />
+    <img src='https://img.shields.io/static/v1?label=Website&message=ramprakash.blog&color=blue&style=flat-square&logo=chromium%20browser' />
   </a>
   <a href='https://linkedin.com/ramprakash' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=LinkedIn&message=ramprakash&color=blue&style=flat-square&logo=linkedin' />
@@ -110,5 +110,5 @@ I am a problem solver and artist looking to collaborate on interesting projects.
   <img src='https://img.shields.io/static/v1?label=Editor&message=Vim&color=blue&style=flat-square&logo=vim' />
   <img src='https://img.shields.io/static/v1?label=Language&message=Python&color=blue&style=flat-square&logo=python' />
 
-![top doodle](/bottom.png)
+![bottom doodle](/bottom.png)
 </div>
