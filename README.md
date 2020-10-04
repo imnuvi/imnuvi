@@ -1,7 +1,7 @@
 ## Hiya there!✌🏻
 
 Welcome.
-
+![top doodle](/top.png)
 I am a problem solver and artist looking to collaborate on interesting projects.
 
 <div align='center'>
@@ -116,4 +116,5 @@ I am a problem solver and artist looking to collaborate on interesting projects.
   <img src='https://img.shields.io/static/v1?label=Editor&message=Vim&color=blue&style=flat-square&logo=vim' />
   <img src='https://img.shields.io/static/v1?label=Language&message=Python&color=blue&style=flat-square&logo=python' />
 
+![top doodle](/bottom.png)
 </div>
