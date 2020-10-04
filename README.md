@@ -1,9 +1,9 @@
 ## Hiya there!✌🏻
 
 ![top doodle](/top.png)
-
-->*I am a creative software developer working on automating mundane stuff.*<-
-
+<div align='center'>
+I am a creative software developer working on automating mundane stuff.
+</div>
 
 <br>
 
@@ -24,8 +24,9 @@
 </div>
 
 <div>
-
-->#### languages<-
+<div markdown="1">
+####languages
+</div>
 <br>
 
 <div align='center'>
