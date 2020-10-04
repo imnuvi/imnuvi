@@ -3,15 +3,13 @@
 ![top doodle](/files/top.png)
 <div align='center'>
 
- # I am a creative software developer working on automating mundane stuff.
-
 </div>
 
 <br>
 
 <div align='center'>
   <a href='https://ramprakash.blog' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=Website&message=ramprakash.blog&color=black&style=flat-square&logo=googlechrome' />
+    <img src='https://img.shields.io/static/v1?label=Website&message=ramprakash.blog&color=black&style=flat-square&logo=google-chrome' />
   </a>
   <a href='https://linkedin.com/ramprakash' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=LinkedIn&message=ramprakash&color=black&style=flat-square&logo=linkedin' />
@@ -56,7 +54,9 @@
 
   **TOOLS**
 
-</div align='center'>
+</div>
+
+<div align='center'>
   <a href='https://git-scm.com' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=git&style=flat-square&logo=git&logoColor=f05032&color=black' />
   </a>
@@ -94,7 +94,7 @@
 
 <div align='center'>
 
-**I am learning**
+# **I am learning**
 
 </div>
 
@@ -123,7 +123,7 @@
 
 <div align='center'>
 
-**preferences**
+# **preferences**
 
 </div>
 
@@ -136,7 +136,7 @@
 </div>
 
 <div align='center'>
-coding is art.
+# **coding** *is* **art**.
 </div>
 
 ![bottom doodle](/files/bottom.png)
