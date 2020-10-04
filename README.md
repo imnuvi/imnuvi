@@ -1,9 +1,9 @@
 ## Hiya there!✌🏻
 
-![top doodle](/top.png)
+![top doodle](/files/top.png)
 <div align='center'>
 
- # **I am a creative software developer working on automating mundane stuff.**
+ # I am a creative software developer working on automating mundane stuff.
 
 </div>
 
@@ -129,9 +129,9 @@
 
 <div align='center'>
 
-  <img src='https://img.shields.io/static/v1?label=OS&message=MacOS&color=black&logoColor=grey&style=flat-square&logo=apple' />
-  <img src='https://img.shields.io/static/v1?label=Editor&message=Atom&color=black&logoColor=grey&style=flat-square&logo=atom' />
-  <img src='https://img.shields.io/static/v1?label=Language&message=Python&color=black&logoColor=darkblue&style=flat-square&logo=python' />
+  <img src='https://img.shields.io/static/v1?label=OS&message=MacOS&color=black&style=flat-square&logo=apple' />
+  <img src='https://img.shields.io/static/v1?label=Editor&message=Atom&color=black&style=flat-square&logo=atom' />
+  <img src='https://img.shields.io/static/v1?label=Language&message=Python&color=black&style=flat-square&logo=python' />
 
 </div>
 
@@ -139,4 +139,4 @@
 coding is art.
 </div>
 
-![bottom doodle](/bottom.png)
+![bottom doodle](/files/bottom.png)
