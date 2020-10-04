@@ -26,7 +26,7 @@
 
 <div align='center'>
 
-  **LANGUAGES**
+#  **LANGUAGES**
 
 </div>
 
@@ -52,7 +52,7 @@
 
 <div align='center'>
 
-  **TOOLS**
+#  **TOOLS**
 
 </div>
 
@@ -136,7 +136,9 @@
 </div>
 
 <div align='center'>
+
 # **coding** *is* **art**.
+
 </div>
 
 ![bottom doodle](/files/bottom.png)
