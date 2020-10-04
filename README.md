@@ -2,7 +2,9 @@
 
 ![top doodle](/top.png)
 <div align='center'>
-I am a creative software developer working on automating mundane stuff.
+
+**I am a creative software developer working on automating mundane stuff.**
+
 </div>
 
 <br>
@@ -25,8 +27,11 @@ I am a creative software developer working on automating mundane stuff.
 
 
 <div align='center'>
+
   ## **LANGUAGES**
+
 </div>
+
 <br>
 
 <div align='center'>
