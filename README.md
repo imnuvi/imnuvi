@@ -26,7 +26,7 @@
 
 <div align='center'>
 
-#  **LANGUAGES**
+ **LANGUAGES**
 
 </div>
 
@@ -52,7 +52,7 @@
 
 <div align='center'>
 
-#  **TOOLS**
+ **TOOLS**
 
 </div>
 
@@ -94,7 +94,7 @@
 
 <div align='center'>
 
-# **I am learning**
+**I am learning**
 
 </div>
 
@@ -123,7 +123,7 @@
 
 <div align='center'>
 
-# **preferences**
+**preferences**
 
 </div>
 
