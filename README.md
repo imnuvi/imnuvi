@@ -115,9 +115,10 @@ I am a creative software developer working on automating mundane stuff.
   <p></p>
   <img src='https://img.shields.io/static/v1?label=Editor&message=Vim&color=blue&style=flat-square&logo=vim' />
   <img src='https://img.shields.io/static/v1?label=Language&message=Python&color=blue&style=flat-square&logo=python' />
+</div>
 
 <div align='center'>
 coding is art.
 </div>
+
 ![bottom doodle](/bottom.png)
-</div>
