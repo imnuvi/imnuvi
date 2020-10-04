@@ -9,7 +9,7 @@ I am a creative software developer working on automating mundane stuff.
 
 <div align='center'>
   <a href='https://ramprakash.blog' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=Website&message=ramprakash.blog&color=black&style=flat-square&logo=chromium' />
+    <img src='https://img.shields.io/static/v1?label=Website&message=ramprakash.blog&color=black&style=flat-square&logo=google-chrome' />
   </a>
   <a href='https://linkedin.com/ramprakash' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=LinkedIn&message=ramprakash&color=black&style=flat-square&logo=linkedin' />
@@ -23,60 +23,60 @@ I am a creative software developer working on automating mundane stuff.
 
 </div>
 
-<div>
-<div markdown="1">
-####languages
+
+<div align='center'>
+LANGUAGES
 </div>
 <br>
 
 <div align='center'>
   <a href='https://www.python.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=python&style=flat-square&logo=python&logoColor=white&color=3776ab' />
+    <img src='https://img.shields.io/static/v1?label=&message=python&style=flat-square&logo=python&logoColor=white&color=black' />
   </a>
   <a href='https://git-scm.com' target='_blank' rel='noopener' rel='noreferrer'>
-    <ima src='https://img.shields.io/static/v1?label=&message=git&style=flat-square&logo=git&logoColor=white&color=f05032' />
+    <ima src='https://img.shields.io/static/v1?label=&message=git&style=flat-square&logo=git&logoColor=white&color=black' />
   </a>
   <a href='https://isocpp.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=C%2B%2B&style=flat-square&logo=c%2B%2B&color=00599c' />
+    <img src='https://img.shields.io/static/v1?label=&message=C%2B%2B&style=flat-square&logo=c%2B%2B&color=black' />
   </a>
   <a href='https://www.gnu.org/software/bash/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=%23%21%2Fbin%2Fbash&logoColor=white&color=grey&style=flat-square&logo=gnu-bash&color=4eaa25' />
+    <img src='https://img.shields.io/static/v1?label=&message=%23%21%2Fbin%2Fbash&logoColor=white&color=grey&style=flat-square&logo=gnu-bash&color=black' />
   </a>
   <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=javascript&style=flat-square&logo=javascript&logoColor=f7df1e&color=grey' />
+    <img src='https://img.shields.io/static/v1?label=&message=javascript&style=flat-square&logo=javascript&logoColor=f7df1e&color=black' />
   </a>
   <a href='https://www.djangoproject.com/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=Django&style=flat-square&logo=django&color=darkgreen&logoColor=white' />
+    <img src='https://img.shields.io/static/v1?label=&message=Django&style=flat-square&logo=django&color=darkgreen&logoColor=black' />
   </a>
   <a href='https://aws.com/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=AWS&style=flat-square&logo=amazon&color=black' />
   </a>
   <a href='https://docs.microsoft.com/en-us/dotnet/csharp/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=C%20Sharp&style=flat-square&logo=c-sharp&color=239120' />
+    <img src='https://img.shields.io/static/v1?label=&message=C%20Sharp&style=flat-square&logo=c-sharp&color=black' />
   </a>
   <a href='https://getbootstrap.com/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=Bootstrap&color=563d7c&style=flat-square&logo=bootstrap' />
+    <img src='https://img.shields.io/static/v1?label=&message=Bootstrap&color=black&style=flat-square&logo=bootstrap' />
   </a>
   <a href='https://wordpress.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=WordPress&style=flat-square&logo=wordpress&color=21759b' />
+    <img src='https://img.shields.io/static/v1?label=&message=WordPress&style=flat-square&logo=wordpress&color=black' />
   </a>
   <a href='https://apache.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=Apache&style=flat-square&logo=apache&color=c71a36' />
+    <img src='https://img.shields.io/static/v1?label=&message=Apache&style=flat-square&logo=apache&color=black' />
   </a>
   <a href='https://wireshark.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=Wireshark&style=flat-square&logo=shark&color=00008b' />
+    <img src='https://img.shields.io/static/v1?label=&message=Wireshark&style=flat-square&logo=wire&color=black' />
   </a>
   <a href='https://www.postman.com/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=postman&style=flat-square&logo=postman&color=orange&logoColor=white' />
+    <img src='https://img.shields.io/static/v1?label=&message=postman&style=flat-square&logo=postman&color=black&logoColor=white' />
   </a>
   <a href='https://www.nginx.com/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=Nginx&style=flat-square&logo=nginx&color=269539&logoColor=white' />
+    <img src='https://img.shields.io/static/v1?label=&message=Nginx&style=flat-square&logo=nginx&color=black&logoColor=white' />
   </a>
   <a href='https://www.blender.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=Blender&style=flat-square&logo=blender&color=f5792a&logoColor=white' />
+    <img src='https://img.shields.io/static/v1?label=&message=Blender&style=flat-square&logo=blender&color=black&logoColor=white' />
   </a>
   <a href='https://www.krita.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=krita&style=flat-square&logo=krita&color=fb89c8&logoColor=white' />
+    <img src='https://img.shields.io/static/v1?label=&message=krita&style=flat-square&logo=krita&color=black&logoColor=white' />
   </a>
 </div>
 
