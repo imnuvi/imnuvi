@@ -25,7 +25,7 @@ I am a creative software developer working on automating mundane stuff.
 
 
 <div align='center'>
-LANGUAGES
+  ## **LANGUAGES**
 </div>
 <br>
 
