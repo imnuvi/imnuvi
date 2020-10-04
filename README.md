@@ -21,12 +21,6 @@ I am a problem solver and artist looking to collaborate on interesting projects.
 </div>
 
 <div>
-<br />
-
-<img src="smaller.gif" width="1000">
-
-<br />
-</div>
 
 #### Stuff I'm good at and work with.
 <div align='center'>
