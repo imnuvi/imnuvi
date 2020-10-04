@@ -1,9 +1,11 @@
 ## Hiya there!✌🏻
 
 ![top doodle](/top.png)
-<div align='center'>
-I am a creative software developer working on automating mundane stuff.
-</div>
+
+->*I am a creative software developer working on automating mundane stuff.*<-
+
+
+<br>
 
 <div align='center'>
   <a href='https://ramprakash.blog' target='_blank' rel='noopener' rel='noreferrer'>
@@ -23,9 +25,8 @@ I am a creative software developer working on automating mundane stuff.
 
 <div>
 
-<div>
-#### languages
-</div>
+->#### languages<-
+<br>
 
 <div align='center'>
   <a href='https://www.python.org/' target='_blank' rel='noopener' rel='noreferrer'>
