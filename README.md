@@ -1,6 +1,5 @@
 ## Hiya there!✌🏻
 
-Welcome.
 ![top doodle](/top.png)
 I am a problem solver and artist looking to collaborate on interesting projects.
 
