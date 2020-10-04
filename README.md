@@ -28,7 +28,7 @@
 
 <div align='center'>
 
-  ## **LANGUAGES**
+  **LANGUAGES**
 
 </div>
 
@@ -37,9 +37,6 @@
 <div align='center'>
   <a href='https://www.python.org/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=python&style=flat-square&logo=python&logoColor=3776ab&color=black' />
-  </a>
-  <a href='https://git-scm.com' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=git&style=flat-square&logo=git&logoColor=f05032&color=black' />
   </a>
   <a href='https://isocpp.org/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=C%2B%2B&style=flat-square&logo=c%2B%2B&logoColor=00599c&color=black' />
@@ -50,14 +47,26 @@
   <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=javascript&style=flat-square&logo=javascript&logoColor=grey&color=black' />
   </a>
+  <a href='https://docs.microsoft.com/en-us/dotnet/csharp/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=C%20Sharp&style=flat-square&logo=c-sharp&logoColor=239120&color=black' />
+  </a>
+    <img src='https://img.shields.io/static/v1?label=&message=SQL&style=flat-square&logo=sql&logoColor=239120&color=black' />
+
+</div>
+
+<div align='center'>
+
+  **TOOLS**
+
+</div>
+  <a href='https://git-scm.com' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=git&style=flat-square&logo=git&logoColor=f05032&color=black' />
+  </a>
   <a href='https://www.djangoproject.com/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=Django&style=flat-square&logo=django&logoColor=darkgreen&color=black' />
   </a>
   <a href='https://aws.com/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=AWS&style=flat-square&logo=amazon&color=black' />
-  </a>
-  <a href='https://docs.microsoft.com/en-us/dotnet/csharp/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=C%20Sharp&style=flat-square&logo=c-sharp&logoColor=239120&color=black' />
   </a>
   <a href='https://getbootstrap.com/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=Bootstrap&style=flat-square&logo=bootstrap&logoColor=563d7c&color=black' />
