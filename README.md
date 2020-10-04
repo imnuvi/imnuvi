@@ -3,7 +3,7 @@
 ![top doodle](/top.png)
 <div align='center'>
 
-**I am a creative software developer working on automating mundane stuff.**
+ # **I am a creative software developer working on automating mundane stuff.**
 
 </div>
 
@@ -32,8 +32,6 @@
 
 </div>
 
-<br>
-
 <div align='center'>
   <a href='https://www.python.org/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=python&style=flat-square&logo=python&logoColor=3776ab&color=black' />
@@ -58,7 +56,7 @@
 
   **TOOLS**
 
-</div>
+</div align='center'>
   <a href='https://git-scm.com' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=git&style=flat-square&logo=git&logoColor=f05032&color=black' />
   </a>
@@ -94,41 +92,47 @@
   </a>
 </div>
 
-#### I am current learning.
+<div align='center'>
+
+**I am learning**
+
+</div>
 
 <div align='center'>
 
   <a href='https://openjdk.java.net/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=Java&style=flat-square&logo=java&color=007396&logoColor=white' />
+    <img src='https://img.shields.io/static/v1?label=&message=Java&style=flat-square&logo=java&logoColor=007396&color=black' />
   </a>
   <a href='https://nodejs.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=Node.js&color=339933&style=flat-square&logo=node' />
+    <img src='https://img.shields.io/static/v1?label=&message=Node.js&logoColor=339933&color=black&style=flat-square&logo=node' />
   </a>
   <a href='https://www.docker.com/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=Docker&style=flat-square&logo=docker&color=2496ed&logoColor=white' />
+    <img src='https://img.shields.io/static/v1?label=&message=Docker&style=flat-square&logo=docker&logoColor=2496ed&color=black' />
   </a>
   <a href='https://reactjs.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=React.js&style=flat-square&logo=react&color=61dafb&logoColor=black' />
+    <img src='https://img.shields.io/static/v1?label=&message=React.js&style=flat-square&logo=react&logoColor=61dafb&color=black' />
   </a>
   <a href='https://godotengine.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=Godot%20Engine&style=flat-square&logo=godot-engine&color=478cbf&logoColor=white' />
+    <img src='https://img.shields.io/static/v1?label=&message=Godot%20Engine&style=flat-square&logo=godot-engine&logoColor=478cbf&color=black' />
   </a>
   <a href='https://cmake.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=CMake&style=flat-square&logo=cmake&color=064f8c' />
+    <img src='https://img.shields.io/static/v1?label=&message=CMake&style=flat-square&logo=cmake&logoColor=064f8c&color=black' />
   </a>
-  <img src='https://img.shields.io/static/v1?label=&message=cryptography&style=flat-square&logo=hashing&color=green' />
+  <img src='https://img.shields.io/static/v1?label=&message=cryptography&style=flat-square&logo=hashing&logoColor=green&color=black' />
 </div>
 
-#### My preferences
 <div align='center'>
 
-  <img src='https://img.shields.io/static/v1?label=OS&message=Linux&color=blue&style=flat-square&logo=linux' />
-  <img src='https://img.shields.io/static/v1?label=Distro&message=Ubuntu&color=blue&style=flat-square&logo=ubuntu' />
-  <p>I don't know which I love more.</p>
-  <img src='https://img.shields.io/static/v1?label=OS&message=MacOS&color=blue&style=flat-square&logo=apple' />
-  <p></p>
-  <img src='https://img.shields.io/static/v1?label=Editor&message=Vim&color=blue&style=flat-square&logo=vim' />
-  <img src='https://img.shields.io/static/v1?label=Language&message=Python&color=blue&style=flat-square&logo=python' />
+**preferences**
+
+</div>
+
+<div align='center'>
+
+  <img src='https://img.shields.io/static/v1?label=OS&message=MacOS&color=black&logoColor=grey&style=flat-square&logo=apple' />
+  <img src='https://img.shields.io/static/v1?label=Editor&message=Atom&color=black&logoColor=grey&style=flat-square&logo=atom' />
+  <img src='https://img.shields.io/static/v1?label=Language&message=Python&color=black&logoColor=darkblue&style=flat-square&logo=python' />
+
 </div>
 
 <div align='center'>
