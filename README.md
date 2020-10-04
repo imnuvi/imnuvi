@@ -1,27 +1,32 @@
 ## Hiya there!✌🏻
 
 ![top doodle](/top.png)
-I am a problem solver and artist looking to collaborate on interesting projects.
+<div align='center'>
+I am a creative software developer working on automating mundane stuff.
+</div>
 
 <div align='center'>
   <a href='https://ramprakash.blog' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=Website&message=ramprakash.blog&color=blue&style=flat-square&logo=chromium%20browser' />
+    <img src='https://img.shields.io/static/v1?label=Website&message=ramprakash.blog&color=black&style=flat-square&logo=chromium' />
   </a>
   <a href='https://linkedin.com/ramprakash' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=LinkedIn&message=ramprakash&color=blue&style=flat-square&logo=linkedin' />
+    <img src='https://img.shields.io/static/v1?label=LinkedIn&message=ramprakash&color=black&style=flat-square&logo=linkedin' />
   </a>
   <a href='https://hackerrank.com/thedoodler' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=Hackerrank&message=thedoodler&color=green&style=flat-square&logo=hackerrank' />
+    <img src='https://img.shields.io/static/v1?label=Hackerrank&message=thedoodler&color=black&style=flat-square&logo=hackerrank' />
   </a>
   <a href='https://instagram.com/ram._.prakash' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=Instagram&message=thedoodler&color=ff69b4&style=flat-square&logo=instagram' />
+    <img src='https://img.shields.io/static/v1?label=Instagram&message=thedoodler&color=black&style=flat-square&logo=instagram' />
   </a>
 
 </div>
 
 <div>
 
-#### Stuff I'm good at and work with.
+<div>
+#### languages
+</div>
+
 <div align='center'>
   <a href='https://www.python.org/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=python&style=flat-square&logo=python&logoColor=white&color=3776ab' />
@@ -109,5 +114,8 @@ I am a problem solver and artist looking to collaborate on interesting projects.
   <img src='https://img.shields.io/static/v1?label=Editor&message=Vim&color=blue&style=flat-square&logo=vim' />
   <img src='https://img.shields.io/static/v1?label=Language&message=Python&color=blue&style=flat-square&logo=python' />
 
+<div align='center'>
+coding is art.
+</div>
 ![bottom doodle](/bottom.png)
 </div>
