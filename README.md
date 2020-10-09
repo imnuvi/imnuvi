@@ -11,7 +11,7 @@
   <a href='https://ramprakash.blog' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=Website&message=ramprakash.blog&color=black&style=flat-square&logo=google-chrome' />
   </a>
-  <a href='https://linkedin.com/ramprakash' target='_blank' rel='noopener' rel='noreferrer'>
+  <a href='https://linkedin.com/ram-prakash1' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=LinkedIn&message=ramprakash&color=black&style=flat-square&logo=linkedin' />
   </a>
   <a href='https://hackerrank.com/thedoodler' target='_blank' rel='noopener' rel='noreferrer'>
