@@ -46,7 +46,8 @@
   <a href='https://docs.microsoft.com/en-us/dotnet/csharp/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=C%20Sharp&style=flat-square&logo=c-sharp&logoColor=239120&color=black' />
   </a>
-    <img src='https://img.shields.io/static/v1?label=&message=SQL&style=flat-square&logo=sql&logoColor=239120&color=black' />
+    <img src='https://img.shields.io/static/v1?label=&message=SQL&style=flat-square&logo=database&logoColor=239120&color=black' />
+    <img src='https://img.shields.io/static/v1?label=&message=RUBY&style=flat-square&logo=ruby&logoColor=red&color=black' />    
 
 </div>
 
