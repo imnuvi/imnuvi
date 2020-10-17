@@ -8,7 +8,7 @@
 <br>
 
 <div align='center'>
-  <a href='https://ramprakash.blog' target='_blank' rel='noopener' rel='noreferrer'>
+  <a href='http://ramprakash.blog' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=Website&message=ramprakash.blog&color=black&style=flat-square&logo=google-chrome' />
   </a>
   <a href='https://www.linkedin.com/in/ram-prakash1' target='_blank' rel='noopener' rel='noreferrer'>
