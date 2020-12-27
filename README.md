@@ -15,7 +15,7 @@
     <img src='https://img.shields.io/static/v1?label=LinkedIn&message=ramprakash&color=black&style=flat-square&logo=linkedin' />
   </a>
   <a href='https://hackerrank.com/cosmoglint' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=Hackerrank&message=RamPrakash&color=black&style=flat-square&logo=hackerrank' />
+    <img src='https://img.shields.io/static/v1?label=Hackerrank&message=Cosmoglint&color=black&style=flat-square&logo=hackerrank' />
   </a>
   <a href='https://instagram.com/ram._.prakash' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=Instagram&message=RamPrakash&color=black&style=flat-square&logo=instagram' />
