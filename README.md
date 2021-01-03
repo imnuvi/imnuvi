@@ -1,6 +1,17 @@
 ## Hiya there!✌🏻
 
 ![top doodle](/files/top.png)
+
+
+<div align='center'>
+  <p>I'm Ram, a Software Developer interested in anything/everything that looks cool</p>
+  <p> I draw, play the guitar and minesweep when im not creating bugs</p>
+  <p>If we meet someday, I will tell you about the Blind Watchmaker</p>
+  <p>I have an average time of 8s on 9x9 board with 10 mines</p>
+
+</div>
+
+
 <div align='center'>
 
 </div>
