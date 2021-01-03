@@ -4,13 +4,13 @@
 
 
 <div align='center'>
-  <p>I'm Ram, a Software Developer interested in anything/everything that looks cool</p>
-  <p> I draw, play the guitar and minesweep when im not creating bugs</p>
-  <p>If we meet someday, I will tell you about the Blind Watchmaker</p>
+  <p>I'm <strong>Ram</strong>, a Software <b>Developer / Artist / Musician</b> interested in creating clean and inspiring code</p>
+  <p>If we meet someday, I will tell you about the <a href="https://www.google.com/search?q=the+blind+watchmaker">Blind Watchmaker</a></p>
   <p>I have an average time of 8s on 9x9 board with 10 mines</p>
 
 </div>
 
+<br>
 
 <div align='center'>
 
