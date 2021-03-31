@@ -112,8 +112,8 @@
 
 <div align='center'>
 
-  <a href='https://openjdk.java.net/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=Java&style=flat-square&logo=java&logoColor=007396&color=black' />
+  <a href='https://elixir-lang.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=elixir&style=flat-square&logo=elixir&logoColor=007396&color=black' />
   </a>
   <a href='https://nodejs.org/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=Node.js&logoColor=339933&color=black&style=flat-square&logo=node' />
@@ -124,11 +124,8 @@
   <a href='https://reactjs.org/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=React.js&style=flat-square&logo=react&logoColor=61dafb&color=black' />
   </a>
-  <a href='https://godotengine.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=Godot%20Engine&style=flat-square&logo=godot-engine&logoColor=478cbf&color=black' />
-  </a>
-  <a href='https://cmake.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=CMake&style=flat-square&logo=cmake&logoColor=064f8c&color=black' />
+  <a href='https://www.geeksforgeeks.org/functional-programming-paradigm/#:~:text=Functional%20programming%20is%20a%20programming,is%20%E2%80%9Chow%20to%20solve%E2%80%9D.' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=Functional%20Programming&style=flat-square&logo=clojure&logoColor=478cbf&color=black' />
   </a>
   <img src='https://img.shields.io/static/v1?label=&message=cryptography&style=flat-square&logo=hashing&logoColor=green&color=black' />
 </div>
