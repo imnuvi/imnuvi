@@ -146,7 +146,7 @@
 
 <div align='center'>
 
-# **coding** *is* **art**.
+# **Problem solving** *is* **art**.
 
 </div>
 
