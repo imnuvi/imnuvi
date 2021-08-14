@@ -5,7 +5,7 @@
 
 <div align='center'>
   <p>I'm <strong>Ram</strong>, a Software <b>Developer / Artist / Musician</b> interested in creating clean and inspiring code</p>
-  <p>If we meet someday, I will tell you about the <a href="https://www.google.com/search?q=the+blind+watchmaker">Blind Watchmaker</a></p>
+  <p>If we meet someday, I will tell you about the <a href="https://cosmoglint.github.io/the_blind_watchmaker/">Blind Watchmaker</a></p>
   <p>I have an average time of 8s on 9x9 board with 10 mines</p>
 
 </div>
